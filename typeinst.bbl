@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+
+\bibitem{Abel2011Analyzing}
+F.~Abel, Q.~Gao, G.~J. Houben, and K.~Tao.
+\newblock Analyzing temporal dynamics in twitter profiles for personalized
+  recommendations in the social web.
+\newblock In {\em International Web Science Conference}, pages 1--8, 2011.
+
+\bibitem{Airoldi2008Mixed}
+E.~M. Airoldi, D.~M. Blei, S.~E. Fienberg, and E.~P. Xing.
+\newblock Mixed membership stochastic blockmodels.
+\newblock {\em Journal of Machine Learning Research}, 9(5):1981--2014, 2008.
+
+\bibitem{Aslay2014Online}
+C.~Aslay, N.~Barbieri, F.~Bonchi, and R.~Baeza-Yates.
+\newblock Online topic-aware influence maximization queries.
+\newblock In {\em International Conference on Extending Database Technology},
+  2014.
+
+\bibitem{Barbieri2012Topic}
+N.~Barbieri, F.~Bonchi, and G.~Manco.
+\newblock Topic-aware social influence propagation models.
+\newblock {\em Knowledge and Information Systems}, 37(3):555--584, 2012.
+
+\bibitem{bernardo2009bayesian}
+J.~M. Bernardo and A.~Smith.
+\newblock Bayesian theory, vol. 405, 2009.
+
+\bibitem{blei2003latent}
+D.~M. Blei, A.~Y. Ng, and M.~I. Jordan.
+\newblock Latent dirichlet allocation.
+\newblock {\em the Journal of machine Learning research}, 3:993--1022, 2003.
+
+\bibitem{burt2009structural}
+R.~S. Burt.
+\newblock {\em Structural holes: The social structure of competition}.
+\newblock Harvard university press, 2009.
+
+\bibitem{Chen2015Online}
+S.~Chen, J.~Fan, G.~Li, J.~Feng, K.~L. Tan, and J.~Tang.
+\newblock Online topic-aware influence maximization.
+\newblock {\em Proceedings of the Vldb Endowment}, 8(6):666--677, 2015.
+
+\bibitem{Domingos2001Mining}
+P.~Domingos and M.~Richardson.
+\newblock Mining the network value of customers.
+\newblock In {\em ACM SIGKDD International Conference on Knowledge Discovery
+  and Data Mining}, pages 57--66, 2001.
+
+\bibitem{Goldenberg2001Talk}
+J.~Goldenberg, B.~Libai, and E.~Muller.
+\newblock Talk of the network: A complex systems look at the underlying process
+  of word-of-mouth.
+\newblock {\em Marketing Letters}, 12(3):211--223, 2001.
+
+\bibitem{Gomez2012Inferring}
+M.~Gomez-Rodriguez, J.~Leskovec, and A.~Krause.
+\newblock Inferring networks of diffusion and influence.
+\newblock {\em Acm Transactions on Knowledge Discovery from Data},
+  5(4):1019--1028, 2012.
+
+\bibitem{Grabowicz2016Distinguishing}
+P.~A. Grabowicz, N.~Ganguly, and K.~P. Gummadi.
+\newblock Distinguishing between topical and non-topical information diffusion
+  mechanisms in social media.
+\newblock 2016.
+
+\bibitem{granovetter1978threshold}
+M.~Granovetter.
+\newblock Threshold models of collective behavior.
+\newblock {\em American journal of sociology}, pages 1420--1443, 1978.
+
+\bibitem{Kwak2010What}
+H.~Kwak, C.~Lee, H.~Park, and S.~Moon.
+\newblock What is twitter, a social network or a news media?
+\newblock In {\em Proceedings of the 19th international conference on World
+  wide web}, pages 591--600, 2010.
+
+\bibitem{page1999pagerank}
+L.~Page, S.~Brin, R.~Motwani, and T.~Winograd.
+\newblock The pagerank citation ranking: bringing order to the web.
+\newblock 1999.
+
+\bibitem{Pinto2014Modeling}
+J.~C.~L. Pinto and T.~Chahed.
+\newblock Modeling multi-topic information diffusion in social networks using
+  latent dirichlet allocation and hawkes processes.
+\newblock In {\em Tenth International Conference on Signal-Image Technology and
+  Internet-Based Systems}, pages 339--346, 2014.
+
+\bibitem{Sekara2015Fundamental}
+V.~Sekara, A.~Stopczynski, and S.~Lehmann.
+\newblock Fundamental structures of dynamic social networks.
+\newblock {\em Computer Science}, 2015.
+
+\bibitem{Tang2009Social}
+J.~Tang, J.~Sun, C.~Wang, and Z.~Yang.
+\newblock Social influence analysis in large-scale networks.
+\newblock In {\em Acm Sigkdd Conference on Knowledge Discovery \& Data Mining},
+  pages 807--816, 2009.
+
+\bibitem{tu2015prism}
+C.~Tu, Z.~Liu, and M.~Sun.
+\newblock Prism: Profession identification in social media with personal
+  information and community structure.
+\newblock In {\em Social Media Processing}, pages 15--27. Springer, 2015.
+
+\bibitem{wahba1973maslow}
+M.~A. Wahba and L.~G. Bridwell.
+\newblock Maslow reconsidered: A review of research on the need hierarchy
+  theory.
+\newblock In {\em Academy of Management Proceedings}, volume 1973, pages
+  514--520. Academy of Management, 1973.
+
+\bibitem{Wasserman1994Social}
+S.~Wasserman and K.~Faust.
+\newblock Social network analysis methods and applications.
+\newblock {\em Contemporary Sociology}, 91(435):219--220, 1994.
+
+\bibitem{wu2011says}
+S.~Wu, J.~M. Hofman, W.~A. Mason, and D.~J. Watts.
+\newblock Who says what to whom on twitter.
+\newblock In {\em Proceedings of the 20th international conference on World
+  wide web}, pages 705--714. ACM, 2011.
+
+\bibitem{xiong2012information}
+F.~Xiong, Y.~Liu, Z.-j. Zhang, J.~Zhu, and Y.~Zhang.
+\newblock An information diffusion model based on retweeting mechanism for
+  online social media.
+\newblock {\em Physics Letters A}, 376(30):2103--2108, 2012.
+
+\bibitem{xu2012modeling}
+Z.~Xu, Y.~Zhang, Y.~Wu, and Q.~Yang.
+\newblock Modeling user posting behavior on social media.
+\newblock In {\em Proceedings of the 35th international ACM SIGIR conference on
+  Research and development in information retrieval}, pages 545--554. ACM,
+  2012.
+
+\bibitem{Yang2010Predicting}
+J.~Yang and S.~Counts.
+\newblock Predicting the speed, scale, and range of information diffusion in
+  twitter.
+\newblock In {\em International Conference on Weblogs and Social Media}, 2010.
+
+\bibitem{yang2015rain}
+Y.~Yang, J.~Tang, C.~W.-k. Leung, Y.~Sun, Q.~Chen, J.~Li, and Q.~Yang.
+\newblock Rain: Social role-aware information diffusion.
+\newblock In {\em AAAI}, pages 367--373, 2015.
+
+\bibitem{Zhang2013Social}
+J.~Zhang, B.~Liu, J.~Tang, T.~Chen, and J.~Li.
+\newblock Social influence locality for modeling retweeting behaviors.
+\newblock In {\em International Joint Conference on Artificial Intelligence},
+  pages 2761--2767, 2013.
+
+\bibitem{Zhang2014Role}
+J.~Zhang, J.~Tang, H.~Zhuang, W.~K. Leung, and J.~Li.
+\newblock Role-aware conformity influence modeling and analysis in social
+  networks.
+\newblock In {\em Twenty-Eighth AAAI Conference on Artificial Intelligence},
+  2014.
+
+\end{thebibliography}
